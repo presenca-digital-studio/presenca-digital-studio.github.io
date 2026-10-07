@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 516 261" aria-hidden="true" focusable="false">
+  <defs>
+    <radialGradient id="esfera" cx="0.36" cy="0.30" r="0.78">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#eceaec"/>
+      <stop offset="1" stop-color="#c9c6cb"/>
+    </radialGradient>
+  </defs>
+  <g class="logo-constelacao" stroke="var(--cor-linha, #dcd8dd)" stroke-width="1.6" fill="none" stroke-linecap="round"><line x1="23.6" y1="141.6" x2="181.6" y2="227.6"/><line x1="181.6" y1="227.6" x2="491.0" y2="187.3"/><line x1="491.0" y1="187.3" x2="377.2" y2="33.6"/><line x1="377.2" y1="33.6" x2="23.6" y2="141.6"/></g>
+  <g class="logo-esferas"><circle cx="181.6" cy="227.6" r="20.0" fill="url(#esfera)"/><circle cx="377.2" cy="33.6" r="11.0" fill="url(#esfera)"/><circle cx="23.6" cy="141.6" r="8.0" fill="url(#esfera)"/><circle cx="491.0" cy="187.3" r="8.0" fill="url(#esfera)"/></g>
+</svg>
